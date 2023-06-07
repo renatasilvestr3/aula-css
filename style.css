@@ -1,8 +1,36 @@
+.corVerde {
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: center;
+}
+
 .corAzul {
     color: blue;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+    text-transform: ;
 }
 
 .corVermelha {
     color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 12px;
+    text-align: right;
+}
+
+.banner {
+    display: 1px solid #ccc;
+    box-sizing: flex;
+    padding: ;
+    margin: ;
+    width: ;
+    height: ;
+    background-color: ;
+    border: ;
+
 }
